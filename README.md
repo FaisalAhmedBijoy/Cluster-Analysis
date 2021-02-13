@@ -5,3 +5,4 @@ Data mining cluster analysis and comparision
 - Agglomerative clustering
 - BIRCH clustering
 - DBSCAN clustering
+- CHAMELEON clustering
